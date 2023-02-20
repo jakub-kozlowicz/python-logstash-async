@@ -8,8 +8,8 @@ from setuptools import setup
 from shutil import rmtree
 import sys
 
-NAME = 'python-logstash-async'
-VERSION = '2.5.0'
+NAME = 'python-logstash-async2'
+VERSION = '2.5.1'
 
 here = path.abspath(path.dirname(__file__))
 with open(path.join(here, 'README.rst'), 'rb') as f:
